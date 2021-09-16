@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RmNj17
+- 👋 Hi, I’m Manoj Khatri
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Backend Web Development
 - 💞️ I’m looking to collaborate on Andriod App Development
