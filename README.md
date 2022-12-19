@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Manoj Khatri
+- 👋 Hi, I’m Manoj Khatri, Junior Frontend Developer
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Backend Web Development
-- 💞️ I’m looking to collaborate on Andriod App Development
+- 🌱 I’m currently doing Reactjs and Angularjs projects
+- 💞️ I’d like to collaborate on Andriod App Development projects in future
 - 📫 mail me at iamrmnj@gmail.com
 
 <!---
