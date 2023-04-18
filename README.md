@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Manoj Khatri,Frontend Developer
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently doing Reactjs and Angularjs projects
-- 💞️ I’d like to collaborate on Andriod App Development projects in future
+- 💞️ I’d like to collaborate on App Development projects(Flutter) in future
 - 📫 mail me at iamrmnj@gmail.com
 - view my portfolio at https://khatri-manoj-portfolio.netlify.app/
 
