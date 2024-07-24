@@ -9,7 +9,7 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=RmNj17)](https://github.com/RmNj17/github-profile-trophy)
 
-<a href="https://app.daily.dev/manojkhatri46"><img src="https://api.daily.dev/devcards/v2/whybnczMfSnTH6axc7yD5.png?type=default&r=t2e" width="356" alt="Manoj Khatri's Dev Card"/></a>
+<a href="https://app.daily.dev/manojkhatri46"><img src="https://api.daily.dev/devcards/v2/whybnczMfSnTH6axc7yD5.png?type=wide&r=t2e" width="652" alt="Manoj Khatri's Dev Card"/></a>
 
 <!---
 RmNj17/RmNj17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
