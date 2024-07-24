@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RmNj17)](https://git.io/streak-stats)
-- 👋 Hi, I’m Manoj Khatri,Frontend Developer
+- 👋 Hi, I’m Manoj Khatri,Software Engineer(Fintech expert)
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently doing Reactjs and Angularjs projects
+- 🌱 I’m currently doing reactjs, nextjs, nodejs,java, golang projects
 - 💞️ I’d like to collaborate on App Development projects(Flutter) in future
 - 📫 mail me at iamrmnj@gmail.com
 - view my portfolio at https://khatri-manoj-portfolio.netlify.app/
